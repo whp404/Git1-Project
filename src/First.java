@@ -5,5 +5,6 @@ public class First {
 		System.out.println("First-Git-Project");
                 System.out.println("Update 1");
 
-	}
+		System.out.println("Update 2");
+}
 }
